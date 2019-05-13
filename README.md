@@ -1,4 +1,4 @@
-# Título del trabajo
+# Máquina expendedora
 Máquina expendedora mediante Arduino.
 Coniste en un proyeto que simula una máquina expendedora, para ello el usuario simula introducir una moneda mediante tecla , selecciona una de las opciones con el teclado matricial. Dependiendo de los elementos introducidos por el usuario se pondran en funcionamiento determinados mecanismos y se podran leer una serie de mensajes en una pantalla LCD.
 ## Integrantes del equipo
