@@ -71,7 +71,7 @@ void loop()
             if (monedas<5)
               {
                 digitalWrite(3,HIGH);
-                delay(monedas);
+                delay(monedas*1000);
                 digitalWrite(3,LOW);
               }
         }
