@@ -1,0 +1,6 @@
+El proyecto es un simulador de una maquina expendedora.
+El proyecto comienza con una pantalla LCD solicitando una moneda, esta se introducira por taclado que simula el mecanismo 
+original, tras introducir la moneda necesaria (5 o mayor) el usuario podra introducir un numero por medio de un teclado
+matricial, en funcion de la opcion seleccionada se activará un motor y se imprimirá un mensaje en pantalla. 
+Despues de simular la entrega del producto se activa un LED que simula el mecanismo de cambio, en funcion del numero 
+introducido por teclado el LED permanecera encendido durante un tiempo. 
