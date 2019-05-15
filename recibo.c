@@ -16,7 +16,7 @@ int main() {
 		printf("no funciona");
 
 	fprintf(recibo, "Recibo de su pedido:\n");
-	fprintf(recibo, "%s: %d€\n", p, precio);
+	fprintf(recibo, "%s: %dâ‚¬\n", p, precio);
 	fclose(recibo);
 }
 
