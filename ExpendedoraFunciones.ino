@@ -132,6 +132,10 @@ void loop()
           //Registro para la empresa(Te informa del exito del producto y los restantes)
           Registro(choco, num);
           monedas=0;
+        
+        /*Consultar documento adyacente en el que se complementa el programa con el uso de ficheros y de asignacion dinamica de 
+         memoria para rellenar una factura*/
+        
           break;
       }
      case '2': //Segundo producto
@@ -168,6 +172,10 @@ void loop()
           //Registro para la empresa
           Registro(latas, num);
           monedas=0;
+        
+        /*Consultar documento adyacente en el que se complementa el programa con el uso de ficheros y de asignacion dinamica de 
+         memoria para rellenar una factura*/
+        
           break;
           }
         case '3': //Producto que no esta disponible 
