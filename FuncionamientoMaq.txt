@@ -4,5 +4,4 @@ original, tras introducir la moneda necesaria (5 o mayor) el usuario podra intro
 matricial, en funcion de la opcion seleccionada se activará un motor y se imprimirá un mensaje en pantalla. 
 Despues de simular la entrega del producto se activa un LED que simula el mecanismo de cambio, en funcion del numero 
 introducido por teclado el LED permanecera encendido durante un tiempo. 
-Además la maquina lleva acabo un registro de los productos mas demandados, y las existencias que quedan en la maquina, avisando al 
-operario cuando estas se han acabado para que reponga dichos productos
+Además la maquina lleva acabo un registro de los productos mas demandados, y las existencias que quedan en la maquina (en el monitor serial), avisando al operario cuando estas se han acabado para que reponga dichos productos,.
