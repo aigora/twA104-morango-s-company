@@ -5,7 +5,7 @@ struct recibo {
 	char* p;
 };
 int main() {
-	int i, n;
+	int n;
 	FILE *recibo;
 	struct recibo cliente;
 	cliente.precio = 5;
@@ -20,7 +20,7 @@ int main() {
 		printf("no funciona");
 
 	fprintf(recibo, "Recibo de su pedido:\n");
-	fprintf(recibo, "%s: %d€\n", cliente.p, cliente.precio);
+	fprintf(recibo, "%s: %dâ‚¬\n", cliente.p, cliente.precio);
 	fclose(recibo);
 }
 
